@@ -1,0 +1,8 @@
+{
+  "filename": "game1.nesproj",
+  "filepath": "C:\\Dev\\Famicom\\game1\\src\\game1.nesproj",
+  "bank": 1,
+  "nametable": "C:\\Dev\\Famicom\\game1\\src\\game1.nam",
+  "tileset": "C:\\Dev\\Famicom\\game1\\src\\starfield.chr",
+  "palettes": "C:\\Dev\\Famicom\\game1\\src\\game1.pal"
+}
